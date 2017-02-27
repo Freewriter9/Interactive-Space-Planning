@@ -9,12 +9,11 @@ body {
 	width: 450px;
 	padding:20px;
 	margin: 0 auto;
-	border: 3px solid red;
 	font-size: 70px;    
   line-height: 1.5;
   letter-spacing: 0.5px;
-	color: #ff5252;
-	background-color: white; 
+	color: white;
+	background-color: #ff5252; 
 	font-family: 'Raleway', sans-serif;
 	bottom:20px;
 }
